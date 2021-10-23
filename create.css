@@ -1,0 +1,94 @@
+body{
+    background-image:url("meat4.jpg");
+    background-repeat:no-repeat;
+    background-size: 990px;
+    
+    background-color:#ddb892;
+    
+
+}
+span{
+    margin-left: 1020px;
+    background-color:#db827b;
+   font-weight:bolder;
+    font-size:40px;
+    border-radius:60px;
+    color:#380617;
+}
+form{
+    margin-left:1000px;
+   
+    /*background-color:#0096c7;*/
+    background-color:#380617;
+   /* background-color:#3d1d02;*/
+    height:420px;
+    margin-top:80px;
+    width:290px;
+    font-size:20px;
+    border-radius:70px;
+    
+
+}
+input{
+    margin-left:100px;
+    margin-top:10px;
+    border-radius:30px;
+   
+    /*background-color:#e3f2fd;*/
+    background-color:#e9d0b8;
+    color:rgb(128, 31, 31);
+    font-size:13px;
+    font-weight: bold;
+   
+    
+}
+label{
+    margin-left:30px;
+    /*color:#e3f2fd;*/
+    /*color:#219ebc;*/
+    color:#ffba08;
+    font-size:23px;
+    font-weight: bold;
+
+
+   
+}
+#image{
+    width:100px;
+    margin-left: 1100px; 
+    background-color:white;
+    margin-bottom:-70px;
+    border-radius:200px;
+    background-color:#119b78;
+    border-color: #119b78;
+    border-width:thick;
+}
+button{
+    width:150px;
+    height:35px;
+    border-radius:100px;
+    margin-left:80px;
+    margin-top:40px;
+    font-size:25px;
+    background-color:#ffba08;
+    color:#380617;
+    font-weight:bolder;
+    border-color:black;
+    border-width:3px;
+
+}
+button:hover{
+    width:150px;
+    height:35px;
+    border-radius:100px;
+    margin-left:80px;
+    margin-top:40px;
+    font-size:25px;
+    background-color:black;
+    color:#ffba08;
+    font-weight:bolder;
+    border-color:#ffba08
+    border-width:3px;
+    text-decoration:underline;
+}
+
